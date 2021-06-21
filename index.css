@@ -1,0 +1,10 @@
+.div1 {
+   border: 5px solid blue;
+   overflow: auto;
+   padding: 40px;
+
+}
+img {
+   float:left
+}
+
